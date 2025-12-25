@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/godot/godot.png" width="120">
 </p>
+<p align="center">
+<a href="https://akshatsingh1.itch.io/funbros1" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Game-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
+  </a>
+</p>
 
 <h1 align="center">FunBros</h1>
 <p align="center"><b>2D Platformer Game</b></p>
@@ -12,11 +17,15 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow">
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast-Paced+2D+Platformer+Game;Smooth+Movement+and+Responsive+Controls;Enemy+Interactions+and+Life+System;More+Levels+Coming+Soon">
 </p>
 
 ---
+
+  
 
 ## Project Overview
 
