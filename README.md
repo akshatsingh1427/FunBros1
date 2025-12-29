@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">FunBros</h1>
+<h1 align="center">FunBros1</h1>
 <p align="center"><b>2D Platformer Game</b></p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## Project Overview
 
-FunBros is a fast-paced 2D platformer game developed using the Godot Engine and GDScript. The game focuses on smooth movement, precise timing, and engaging enemy interactions. Players can run, jump, roll, and navigate through colorful environments filled with traps and challenges.
+FunBros1 is a fast-paced 2D platformer game developed using the Godot Engine and GDScript. The game focuses on smooth movement, precise timing, and engaging enemy interactions. Players can run, jump, roll, and navigate through colorful environments filled with traps and challenges.
 
 Currently, the game features Level 1, which is fully playable and designed to introduce the core gameplay mechanics. Level 2 is under construction and will include new obstacles, enemies, and enhanced gameplay elements in future updates.
 
