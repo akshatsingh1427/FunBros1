@@ -1,11 +1,9 @@
 extends Area2D
 
 func _on_body_entered(body):
-	# Only react to Player
 	if body.name != "Player":
 		return
 
-	# 1️⃣ ROLL → enemy dies
 	if body.is_rolling:
 		get_parent().die()
 		return
